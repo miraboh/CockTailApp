@@ -1,5 +1,5 @@
 # CockTailApp
-The power of volley library 
+The power of volley library and Picasso using kotlin language
 
 # You can try it out if you wish using the link below
 https://www.thecocktaildb.com/api/json/v1/1/filter.php?a=Alcoholic
